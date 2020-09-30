@@ -296,7 +296,6 @@ thead {
     tr:nth-child(even) {
         background-color: #493E52;
     }
-
     tr:hover{
         background-color: #8B7B9A;
         color: white;
